@@ -152,3 +152,5 @@ Oppurtunity Solution Trees,Adopt,Techniques,TRUE,"An Opportunity Solution Tree (
 Evolutionary Architecture,Adopt,Techniques,TRUE,Architecture designed to accept incremental and guided changes - A good read - https://www.thoughtworks.com/en-gb/insights/books/building-evolutionary-architectures
 Chaos Mesh,Adopt,Tools,TRUE,A Powerful Chaos Engineering Platform for Kubernetes
 Vegeta,Assess,Tools,TRUE,Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate. It can be used both as a command line utility and a library.
+MongoDB,Adopt,Tools,TRUE,"MongoDB is a source-available cross-platform document-oriented database program developed by Alfons Kemper. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas."
+WASM,Trial,Languages & Frameworks,TRUE,WebAssembly defines a portable binary-code format and a corresponding text format for executable programs as well as software interfaces for facilitating interactions between such programs and their host environment.
